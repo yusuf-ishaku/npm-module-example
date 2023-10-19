@@ -1,0 +1,14 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "Module project",
+  "main": "https.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
